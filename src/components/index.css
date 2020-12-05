@@ -1,0 +1,10 @@
+.header_content {
+  display: flex;
+  flex-direction: row;
+}
+.list {
+  padding: 20px;
+}
+ul {
+  list-style-type: none;
+}
